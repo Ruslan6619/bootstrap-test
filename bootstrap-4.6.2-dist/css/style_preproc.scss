@@ -1,0 +1,15 @@
+.banner{
+  height: 100vh;
+  background-size: cover;
+  background-image: url("../images/01.jpg");
+  &.item2{
+    background-image: url("../images/02.jpg");
+
+  }
+  &.item3{
+    background-image: url("../images/03.jpg");
+  }
+  &.item4{
+    background-image: url("../images/04.jpg");
+  }
+}
