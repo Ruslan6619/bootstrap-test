@@ -38,7 +38,7 @@ $font-20-Kopeek-Book:'20 Kopeek Book';
 
 .box-owl{
   @include min-screen(300px){
-    background-image: url("../images/Rectangle 52.jpg");
+    background-image: url("../images/Rectangle52.jpg");
     height: 100vh;
     background-size: cover;
   }
